@@ -1,9 +1,8 @@
 /*
  * file DFRobot_MAX17043.ino
- *
- * connect gauge I2C interface with your board (please reference board compatibility)
  * 
- * Voltage, percentage will be printed via serial.
+ * connect gauge I2C interface with your board, it is compatible with FireBeetle-ESP32,FireBeetle-ESP8266 and Arduino Uno.
+ * The state of charge and voltage will be displayed in serial.
  * Use API to config alaram and sleep (please reference to the readme in lib)
  *
  * Copyright   [DFRobot](http://www.dfrobot.com), 2016
