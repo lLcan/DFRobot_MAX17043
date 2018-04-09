@@ -1,7 +1,6 @@
 # DFRobot_MAX17043 Gravity：3.7V Li Battery Fuel Gauge
 
-The MAX17043 is ultra-compact, low-cost,host-side fuel-gauge systems 
-for lithium-ion (Li+) batter-ies in handheld and portable equipment.
+The MAX17043 is ultra-compact, low-cost,host-side fuel-gauge systems for lithium-ion (Li+) batter-ies in handheld and portable equipment.It employs Gravity I2C interface, ultra-low operating current, and real-time tracking of the relative state of charge (SOC) of the battery through Maxim's patented algorithm, eliminating the need for full-to-empty relearning and offset accumulation errors. Plug and play to accurately measure the voltage and remaining power of the battery. The module also features as a low battery power alert interrupt function. When the battery power falls below specified threshold, the ALR pin generates a falling pulse to trigger the external interrupt of the controller. 
 
 ## DFRobot_MAX17043.py Library for Raspberry pi
 ---------------------------------------------------------
